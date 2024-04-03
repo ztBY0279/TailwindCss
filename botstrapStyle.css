@@ -1,0 +1,8 @@
+/* styles.css */
+
+@import '~bootstrap/dist/css/bootstrap.min.css';
+
+body {
+  background-color: blue !important;
+  color: white;
+}
